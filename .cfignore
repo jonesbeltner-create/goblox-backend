@@ -1,8 +1,0 @@
-node_modules
-backend
-server.js
-index.js
-package.json
-package-lock.json
-.git
-dist
